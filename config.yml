@@ -1,0 +1,19 @@
+---
+- group: 1
+  params: 
+    - 'ABI-L2-CPSF'
+    - 'ABI-L2-RRQPEF'
+    - 'GLM-L2-LCFA'
+  years:
+    - 2022
+  months:
+    - 1
+    - 2
+#- group: 2
+#  params:
+#    - 'GLM-L2-LCFA'
+#  years:
+#    - 2019
+#  months: 
+#    - 7
+...
